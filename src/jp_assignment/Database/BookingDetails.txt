@@ -1,0 +1,4 @@
+R02,Wu Ka Lok,Identity Card (IC),011101140522,0183290689,kalok@gmail.com,04-May-2022,06-May-2022,Extra towers ,3 Days 2 Nights ,NA, RM 70.0, RM 20, RM 790.0
+R03,Wong Weizhangw ,Identity Card (IC),011101140511,0183290688,wz@gmail.com,04-May-2022,08-May-2022,NA,5 Days 4 Nights ,Checked In, RM 140.0, RM 40, RM 1580.0
+R11,Ng Li Sheng ,Identity Card (IC),011101140511,0183290681,nls@gmail.com,04-May-2022,06-May-2022,more water bottles ,3 Days 2 Nights ,NA, RM 70.0, RM 20, RM 790.0
+R12,Muhsin,Identity Card (IC),0111011040566,0183290683,mh@gmail.com,04-May-2022,05-May-2022,na,2 Days 1 Nights ,Checked In, RM 35.0, RM 10, RM 395.0
